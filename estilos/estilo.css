@@ -1,0 +1,49 @@
+p {
+    color: #ab1249;
+}
+ 
+html {
+ font-size: 28px;
+ font-family: "Kode Mono", monospace;
+}
+
+h1 {
+    font-size: 53px;
+    text-align: center;
+}
+
+p,
+li {
+    font-size: 25px;
+    line-height: 2;
+    letter-spacing: 1px;
+
+}
+html {
+    background-color: 
+    #220730;
+ 
+}
+
+body {
+    width: 750px;
+    margin: 0 auto;
+    background-color: 
+    #685db5;
+    padding: 0 20px 20px 20px;
+    border: 5px
+    solide black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color:  #ab1249;
+    text-shadow: 3px 3px 1px black;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    max-width: 250px; max-height: 150px;
+}
